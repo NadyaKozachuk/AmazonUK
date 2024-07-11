@@ -23,4 +23,4 @@ Once the execution completes report & log will be generated in below folder.
 (can be set to defauld folder build/reports/tests
 ![CucumberReport](https://github.com/NadyaKozachuk/AmazonUK/assets/71333994/5ca507ef-5d67-4d88-a8da-ab3572e8e5d1)
 
-
+**Logs:** 	*The SLF4J implements a simple console logger that logs messages at the INFO level.
