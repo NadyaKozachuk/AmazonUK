@@ -4,9 +4,9 @@ Why Selenide.
 Selenide is a wrapper built around Selenium WebDriver but it simplifies a lot of the WebDriver's complexities. 
 It requires less boilerplate code and thereby can keep test cases shorter and more readable.
 
-Also has automatic Browser Management: With Selenide you don't need to manually manage browser instances. It automatically opens and closes browsers for you. 
-Automatic Waits: Selenide has built-in implicit and explicit waits, which handle many synchronization issues out-of-the-box. This saves testers from having to manually write waits.
-And  at the same time has Automatic Screenshots: Whenever tests fail in Selenide, it automatically takes a screenshot and saves the HTML of the page. This can be incredibly helpful for debugging.
+*Also has automatic Browser Management: With Selenide you don't need to manually manage browser instances. It automatically opens and closes browsers for you.*<br> 
+*Automatic Waits: Selenide has built-in implicit and explicit waits, which handle many synchronization issues out-of-the-box. This saves testers from having to manually write waits.*<br>
+*And  at the same time has Automatic Screenshots: Whenever tests fail in Selenide, it automatically takes a screenshot and saves the HTML of the page. This can be incredibly helpful for debugging.*<br>
 
 ## **Running Test:**
 
