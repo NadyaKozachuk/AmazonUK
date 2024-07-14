@@ -24,3 +24,8 @@ Once the execution completes report & log will be generated in below folder.
 ![CucumberReport](https://github.com/NadyaKozachuk/AmazonUK/assets/71333994/5ca507ef-5d67-4d88-a8da-ab3572e8e5d1)
 
 **Logs:** 	*The SLF4J implements a simple console logger that logs messages at the INFO level.
+
+## ** Integration with BrowserStack:**
+
+Link to Dashboard:https://automate.browserstack.com/builds/9c3d69a5027f35a21a63d88338ffd5c81a699b1c/sessions/e6cc20f3e3286e8b687f79a0abaa010350a6ed57?auth_token=6fd3f87b84a378d7be147c73e17ac6924ffcfbc1f364b2d27e687fd26be5da04
+Docs: https://www.browserstack.com/docs/automate-turboscale/integrate/selenium/java/selenide#IntelliJ_IDEA
