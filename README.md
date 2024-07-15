@@ -26,6 +26,7 @@ Once the execution completes report & log will be generated in below folder.
 **Logs:** 	*The SLF4J implements a simple console logger that logs messages at the INFO level.
 
 ## ** Integration with BrowserStack:**
+Running tests using Selenide on BrowserStack’s Selenium Grid of 3000+ real devices and desktop browsers.
 ![BrowserStackIntegrationDashboard](https://github.com/user-attachments/assets/e8f70b4f-79cb-49a6-9d1c-e301dfd542b6)
 
 Link to Dashboard:https://automate.browserstack.com/builds/9c3d69a5027f35a21a63d88338ffd5c81a699b1c/sessions/e6cc20f3e3286e8b687f79a0abaa010350a6ed57?auth_token=6fd3f87b84a378d7be147c73e17ac6924ffcfbc1f364b2d27e687fd26be5da04<br>
