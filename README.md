@@ -46,6 +46,7 @@ Create an Account:
 Go to Sauce Labs and sign up for an account.
 Get Access Credentials:
 Once your account is set up, navigate to User Settings to retrieve your Username and Access Key.
+Update the src/main/resources/cucumber.properties
 
 ![image](https://github.com/user-attachments/assets/ffd5c21a-b447-4683-81fb-673c628ad05d)
 
