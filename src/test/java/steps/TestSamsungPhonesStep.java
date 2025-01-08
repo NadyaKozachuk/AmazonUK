@@ -14,7 +14,6 @@ import static pages.Smartphones.*;
 public class TestSamsungPhonesStep extends BaseStep {
     @Given("I am on the Amazon UK Mobile Phones page")
     public void iAmOnTheAmazonUKMobilePhonesPage() {
-        setUpForUI();
         open(DriverManager.getTestPhoneURL());
         acceptCookie();
         selectDeliverTo();

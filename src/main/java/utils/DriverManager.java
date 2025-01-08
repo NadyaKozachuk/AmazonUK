@@ -30,4 +30,20 @@ public class DriverManager {
         loadCucumberProperties();
         return cucumberProperties.getProperty("url_nav_phones");
     }
+
+    public static String getUserNameFromProperties() {
+        loadCucumberProperties();
+        return cucumberProperties.getProperty("username");
+    }
+
+
+    public static String getKeyFromProperties() {
+        loadCucumberProperties();
+        return cucumberProperties.getProperty("accessKey");
+    }
+
+    public static String getRemoteURLFromProperties() {
+        loadCucumberProperties();
+        return cucumberProperties.getProperty("remoteURL");
+    }
 }

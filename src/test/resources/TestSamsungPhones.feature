@@ -1,5 +1,6 @@
 Feature: Test Samsung Phones on Amazon
 
+@Test1
   Scenario Outline: List all the Samsung phones with below specifications
     Given I am on the Amazon UK Mobile Phones page
     When I filter by price  "<price £>"
@@ -10,8 +11,9 @@ Feature: Test Samsung Phones on Amazon
 
     Examples:
       | Camera resolution MP | model   | price £ | year |
-      | MORE_20              | SAMSUNG | 50_100  | 2023 |
+      | MORE_20              | SAMSUNG | 50_100  | 2021 |
 
+@Test2
   Scenario Outline: List the Samsung phones with below specifications
     Given I am on the Amazon UK Mobile Phones page
     When I filter by price  "<price £>"
