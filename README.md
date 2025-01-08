@@ -35,3 +35,17 @@ Link to Dashboard:https://automate.browserstack.com/builds/9c3d69a5027f35a21a63d
 
 Set userName and accessKey properties in the browserstack.yml file,available in the root directory, to authenticate your tests on BrowserStack.<br>
 Docs: https://www.browserstack.com/docs/automate-turboscale/integrate/selenium/java/selenide#IntelliJ_IDEA
+
+## ** Integration with Sauce labs:**
+Integrating Selenide with Sauce Labs involves setting up your testing environment so that tests run on remote machines provided by Sauce Labs.
+This allows you to leverage their cloud capabilities, such as testing across different browsers and operating systems.
+
+**Setup Sauce Labs Account** 
+
+Create an Account:
+Go to Sauce Labs and sign up for an account.
+Get Access Credentials:
+Once your account is set up, navigate to User Settings to retrieve your Username and Access Key.
+
+![image](https://github.com/user-attachments/assets/ffd5c21a-b447-4683-81fb-673c628ad05d)
+
